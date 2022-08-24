@@ -1,1 +1,1 @@
-
+Created this smart contract to be used in a Fiverr type application for paying freelancers in crypto in a secure way that requires both parties to approve a transaction before executing, while also including a third party to settle disputes between the party and be the second signature needed to execute a payment
